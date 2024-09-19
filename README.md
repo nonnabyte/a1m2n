@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mbebo Nonna, a junior at New York University
+- 👋 Hi, I’m Mbebo Nonna, a senior at New York University
 - 🌱 I’m currently double majoring in Computer Science and Interactive Media with a minor in Applied Mathematics
 - 👀 I’m interested in Deep Learning and its practical applications, Virtual and Augmented Reality and Mobile App development
 - 💞️ I’m looking to collaborate on impactful and practical projects in AI and mobile app development
